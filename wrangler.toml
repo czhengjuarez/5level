@@ -1,0 +1,7 @@
+name = "5levels"
+main = "src/worker.ts"
+compatibility_date = "2025-07-24"
+
+# Static assets configuration
+[assets]
+directory = "./dist"
